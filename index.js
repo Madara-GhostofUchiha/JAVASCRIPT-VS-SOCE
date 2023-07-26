@@ -4,3 +4,4 @@
 var msg = 'selva';
 var word= 'hi this is '+msg+'working in js';
 alert(word);
+console.log(msg);
