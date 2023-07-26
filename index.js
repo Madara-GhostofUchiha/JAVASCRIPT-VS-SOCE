@@ -25,5 +25,9 @@ let selva = {
     city:"Mumbai",
     status: "Unemployed"
 }
+// alert(selva);
+console.log(selva.state)// DOT NOTATION
+console.log(selva['city']);// BRACKET NOTATION
+//ARRAYS
 
-console.log(selva)
+let favanime=['death note','dr.stone','kira','L'];
